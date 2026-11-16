@@ -43,7 +43,7 @@ Thumbs.db
 *.swo
 *~
 
-# Test and coverage output
+# Tests and coverage
 coverage/
 .nyc_output/
 
